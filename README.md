@@ -1,5 +1,5 @@
 ![](https://cdn.discordapp.com/attachments/877259007339941988/1109131311081336863/2023-05-19_17.51.21.png)
-## If you, like me before writing this code, didn't know how to output `Hello World!` to the console, this repo is for you!
+## If you, like me before writing this code, didn't know how to output `Hello World!` to the console, this repo is for you
 #### It takes a little time, because as it turns out, it's a very complicated process.
 * It imports the `crypto` module, which provides cryptographic functionality.
 * We definitely need cryptography. It defines the encryption algorithm (aes-256-cbc)
@@ -28,3 +28,4 @@
 ### Why such variable names? Because this is what makes the whole code work.
 ## If there are more than 10 ⭐️ here, this masterpiece will only get better 
 ## [Buy Me A Coffee](https://www.buymeacoffee.com/alexcitten)
+![](https://cdn.discordapp.com/attachments/1077302610966610062/1109142200798941295/2023-05-19_18.34.41.png)
