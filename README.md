@@ -26,4 +26,5 @@
 4. Calculates the sum of the filtered numbers and checks if it is even.
 5. If the sum is even, it executes the main function. Otherwise, it prints a message indicating that the sum is odd.
 ### Why such variable names? Because this is what makes the whole code work.
-## If there are more than 10 ⭐️ here, this masterpiece will only get better | [Buy Me A Coffee](https://www.buymeacoffee.com/alexcitten)
+## If there are more than 10 ⭐️ here, this masterpiece will only get better 
+## [Buy Me A Coffee](https://www.buymeacoffee.com/alexcitten)
